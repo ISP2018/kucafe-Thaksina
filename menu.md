@@ -4,10 +4,10 @@
 
 | Description                | Price (Bt) |
 |:---------------------------|-----:|
-| Apple, Banana, Orange (ea) |  15  |
+| Apple, Banana, Orange (ea) |  10  |
 | Banana Cake                |  15  |
 | Cheap Sandwich             |  20  |
-| Good Sandwich              |  40  |
+| Good Sandwich              |  35  |
 | Ramen Noodles              |  25  |
 
 ## Beverages
